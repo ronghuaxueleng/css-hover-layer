@@ -16,38 +16,6 @@
     z-index: 10;
 }
 
-.hovertest:hover {
-    background: #000;
-    -webkit-transition: all 0.2s linear;
-    -moz-transition: all 0.2s linear;
-    -ms-transition: all 0.2s linear;
-    -o-transition: all 0.2s linear;
-    transition: all 0.2s linear;
-    z-index: 20;
-}
-
-.hovertest:hover img {
-    opacity: 0.5;
-    filter: alpha(opacity=50);
-    -webkit-transition: all 0.2s linear;
-    -moz-transition: all 0.2s linear;
-    -ms-transition: all 0.2s linear;
-    -o-transition: all 0.2s linear;
-    transition: all 0.2s linear;
-    z-index: 30;
-}
-
-.hovertest li:hover img {
-    opacity: 1;
-    filter: alpha(opacity=100);
-    -webkit-transition: all 0.2s linear;
-    -moz-transition: all 0.2s linear;
-    -ms-transition: all 0.2s linear;
-    -o-transition: all 0.2s linear;
-    transition: all 0.2s linear;
-    z-index: 40;
-}
-
 .lanren01 {
     width: 667px;
     height: 332px;
